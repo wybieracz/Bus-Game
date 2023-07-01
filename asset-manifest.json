@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bus-Game/static/css/main.0b84e3e3.css",
+    "main.js": "/Bus-Game/static/js/main.65952ab4.js",
+    "static/js/787.b9033fc2.chunk.js": "/Bus-Game/static/js/787.b9033fc2.chunk.js",
+    "index.html": "/Bus-Game/index.html",
+    "main.0b84e3e3.css.map": "/Bus-Game/static/css/main.0b84e3e3.css.map",
+    "main.65952ab4.js.map": "/Bus-Game/static/js/main.65952ab4.js.map",
+    "787.b9033fc2.chunk.js.map": "/Bus-Game/static/js/787.b9033fc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b84e3e3.css",
+    "static/js/main.65952ab4.js"
+  ]
+}
