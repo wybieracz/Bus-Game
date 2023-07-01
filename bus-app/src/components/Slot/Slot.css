@@ -1,0 +1,22 @@
+.slot {
+    width: 4.8rem;
+    height: 6rem;
+    background-color: var(--white-card);
+    outline: 3px solid var(--white-border);
+    border-radius: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin: 0 .75rem;
+    color: var(--black-card)!important;
+}
+
+.empty {
+    background-color: var(--green-table)!important;
+}
+
+.active {
+    outline: 3px solid var(--red-card)!important;
+}
