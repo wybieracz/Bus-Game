@@ -26,7 +26,6 @@ h2 {
 }
 
 .reset {
-  /* width: 1.6rem; */
   height: 2rem;
   background-color: var(--white-card);
   outline: 3px solid var(--white-border);

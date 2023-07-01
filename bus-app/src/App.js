@@ -14,13 +14,6 @@ export default function App() {
   const handleCardClick = useCallback((id) => {
     cardClick(id, deck, setDeck, board, setBoard, position, setPosition, direction, setDirection);
   }, [deck, board, position, direction]);
-
-  useEffect(() => {
-    console.log(deck)
-    console.log(board)
-    console.log(position)
-    console.log(direction)
-  }, [deck, board, position, direction])
  
   return (
     <div className="App">
